@@ -85,7 +85,7 @@ function Header() {
           <Button
             onClick={() => {
               window.open(
-                "https://drive.google.com/file/d/1zbrcyEPX5vpSL0JVXJb7x8CUZu089nYK/view?usp=sharing"
+                "https://www.topcv.vn/sua-cv/abe829ed02ecc65e30951361385c67aa"
               );
             }}
             className="resumebtn"

@@ -24,11 +24,11 @@ function Home() {
               className='socailmediabtn'><AiFillGithub className='icon' /></button>
         
             <button onClick={() => {
-              window.open("https://twitter.com/rahulvijay8156");
+              window.open("https://www.facebook.com/profile.php?id=100052904505332&mibextid=ZbWKwL");
             }}
               className='socailmediabtn'><FaFacebookSquare className='icon' /></button>
             <button onClick={() => {
-              window.open("https://www.facebook.com/profile.php?id=100052904505332&mibextid=ZbWKwL");
+              window.open("https://twitter.com/rahulvijay8156");
             }}
               className='socailmediabtn'><AiFillInstagram className='icon' /></button>
           </Col>
